@@ -11,10 +11,10 @@ Author URI:   http://mikeleembruggen.com/
 **************************************************************************/
 
 //
-require_once WP_PLUGIN_DIR.'/dashboard-extended/post-widget.php';
-require_once WP_PLUGIN_DIR.'/dashboard-extended/page-widget.php';
-require_once WP_PLUGIN_DIR.'/dashboard-extended/banner-widget.php';
-require_once WP_PLUGIN_DIR.'/dashboard-extended/options-page.php';
+require_once WP_PLUGIN_DIR.'/simple-dashboard/post-widget.php';
+require_once WP_PLUGIN_DIR.'/simple-dashboard/page-widget.php';
+require_once WP_PLUGIN_DIR.'/simple-dashboard/banner-widget.php';
+require_once WP_PLUGIN_DIR.'/simple-dashboard/options-page.php';
 
 
 	
